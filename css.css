@@ -1,0 +1,22 @@
+body{
+    background-color: #abbfce;
+}
+
+label {
+    padding: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+input {
+    margin: 0.2rem;
+    width: 25rem;
+}
+
+#submitbutton {
+    padding: 1rem 4rem;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+    margin-bottom: 2rem;
+}

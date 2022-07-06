@@ -1,0 +1,26 @@
+
+
+For each address given, connect path to all other locations, storing information
+
+
+
+Total Driving Distance minimized
+
+
+Home
+
+Calculate distance to every route
+
+Fastest time take that route
+
+
+
+
+
+Doc Structure:
+
+HTML To Display, file should be able to communicate with google api
+
+CSS for Style whatever
+
+TS backing
